@@ -32,7 +32,7 @@ function SignupPage (){
           <Input label="Nome"></Input>
           <Input label="Sobrenome"></Input>
           <Input label="Usuário"></Input>
-          <Input label="Email ou usuário" type="email" />
+          <Input label="Email" type="email" />
           <Input label="Senha" type="password" />
           <Button>Entrar</Button>
         </Form>
