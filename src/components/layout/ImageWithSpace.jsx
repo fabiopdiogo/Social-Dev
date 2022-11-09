@@ -44,7 +44,6 @@ const StyledContainer = styled.div`
   }
 `
 
-
 function ImageWithSpace({children, image}){
   return (      
       <StyledFlex>
@@ -57,7 +56,7 @@ function ImageWithSpace({children, image}){
 }
 
 ImageWithSpace.defaultProps = {
-  image: '/coffee-background.jpg'
+  image: '/bg-main-desktop.png'
 }
 
 export default ImageWithSpace
