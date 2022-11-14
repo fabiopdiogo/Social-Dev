@@ -4,8 +4,8 @@ const Button = styled.button`
   background-color: ${props => props.theme.primary};
   padding: 15px 20px; 
   border-radius: 10px;
-  boorder: 0;
-  font-weigth: bold;
+  border: 0;
+  font-weight: bold;
   color: ${props => props.theme.white};
   font-size: 16px;
   transition: 0.3s;

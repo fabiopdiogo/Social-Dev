@@ -11,7 +11,7 @@ const StyledContainer = styled.div`
 
 const StyledChildren = styled.div`
   max-width: 700px;
-  width: 100%
+  width: 100%;
 `
 
 function Container ({ children }){

@@ -2,7 +2,7 @@ import styled from 'styled-components'
 import { useController } from 'react-hook-form'
 
 const InputContainer = styled.div`
-  width: 100%
+  width: 100%;
 `
 const StyledLabel = styled.p`
   font-weight: bold;
