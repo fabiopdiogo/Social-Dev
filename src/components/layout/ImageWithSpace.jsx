@@ -56,7 +56,7 @@ function ImageWithSpace({children, image}){
 }
 
 ImageWithSpace.defaultProps = {
-  image: '/bg-main-desktop.png'
+  image: '/coffee-background.jpg'
 }
 
 export default ImageWithSpace
