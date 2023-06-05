@@ -29,6 +29,7 @@ const ErrorLabel = styled.span`
   font-weight: bold;
   font-size: 14px;
 `
+
 const errorMessage = {
   'string.empty': 'Este campo é obrigatótio.',
   'string.email': 'Por favor, digite um e-mail válido.',
